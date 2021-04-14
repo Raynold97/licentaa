@@ -1,0 +1,39 @@
+body{
+    margin: 0;
+    padding: 0;
+   background: #9c88ff;
+}
+
+.yourModal{
+    position: absolute;
+    top: 50%;
+    left: 500px;
+    /* transform: translate(50%,-50%); */
+}
+
+
+.search-box{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(0%,-50%);
+    background: #9c88ff;
+    height: 40px;
+    border-radius: 40px;
+    padding: 10px;
+   
+}
+
+/* .btn{
+    border: 1px solid #3498db;
+    background: none;
+    padding: 10px 20px;
+    font-size: 10px;
+    font-family:'Courier New', Courier, monospace;
+    cursor: pointer;
+    margin: 50px;
+}
+
+.btn1{
+    color: aqua;
+} */
